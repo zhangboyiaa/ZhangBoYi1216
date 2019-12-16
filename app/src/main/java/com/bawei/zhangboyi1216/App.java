@@ -16,6 +16,6 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
         app = this;
-        Thread.setDefaultUncaughtExceptionHandler(new Throwable());
+        //Thread.setDefaultUncaughtExceptionHandler(new Throwable());
     }
 }

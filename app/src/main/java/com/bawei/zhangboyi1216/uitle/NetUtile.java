@@ -3,7 +3,6 @@ package com.bawei.zhangboyi1216.uitle;
 import android.widget.ImageView;
 
 import com.android.volley.AuthFailureError;
-import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
